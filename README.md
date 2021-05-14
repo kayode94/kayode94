@@ -1,11 +1,4 @@
 ### Hi there my name is Kayode Richards👋
-### Click below to learn a little about me
-
-<!--
-**kayode94/kayode94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Emotion Tracker Web App
 - 🌱 I’m currently learning ... How to be a fantastic Web Developer
 - 👯 I’m looking to collaborate on ... Any project that provides meaningful change
@@ -14,4 +7,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... kayode.richards@gmail.com
 - ⚡ Fun fact: ... I have a Black belt in karate
 - 🌱 My skills ... Java, JavaScript, HTML, CSS, CSS(SAS), React, JSX, SQL  
--->
+
