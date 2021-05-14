@@ -1,4 +1,5 @@
-### Hi there my name is Kayode 👋
+### Hi there my name is Kayode Richards👋
+### Click below to learn a little about me
 
 <!--
 **kayode94/kayode94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
