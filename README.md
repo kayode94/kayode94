@@ -6,5 +6,5 @@
 - 💬 Ask me about ... My passions(video games)
 - 📫 How to reach me: ... kayode.richards@gmail.com
 - ⚡ Fun fact: ... I have a Black belt in karate
-- 🌱 My skills ... Java, JavaScript, HTML, CSS, React, SQL, Python, C/C++  
+- 🌱 My skills ... Java, JavaScript, HTML, CSS, React, SQL, Python, C/C++, Node  
 
