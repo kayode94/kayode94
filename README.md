@@ -1,6 +1,6 @@
 ### Hi there my name is Kayode Richards👋
 - 🔭 I’m currently working on ... E-commerce Full Stack Application
-- 🌱 I’m currently learning ... How to be a fantastic Web Developer
+- 🌱 I’m currently learning ... Unity Engine
 - 👯 I’m looking to collaborate on ... Any project that provides meaningful change to the community
 - 🤔 I’m looking for help with ... Unreal Engine 5
 - 💬 Ask me about ... My passions(video games)
